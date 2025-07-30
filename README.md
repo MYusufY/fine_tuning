@@ -46,7 +46,7 @@ Once everything’s installed, open the notebook and follow along. You’ll:
 
 - Load the base model: `Qwen/Qwen2.5-3B-Instruct`
 - See that it doesn't know who Mariya Sha is
-- Prepare a dataset that *tells it who I am*
+- Prepare a dataset that **tells it who Mariya Sha is**
 - Tokenize and format the data
 - Train it using LoRA to make it fast and efficient
 - Save the fine-tuned model locally
