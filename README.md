@@ -1,4 +1,3 @@
-```
 # 🧙‍♀️ LLM Fine Tuning – Teach Your Model Something It Doesn't Know
 
 What if we could take a language model... and teach it something that it doesn't know?
@@ -70,4 +69,3 @@ If everything worked, you’ll get this kind of answer:
 Huge thanks to Hugging Face, PEFT, and LoRA for making all this magic possible — and of course to HubSpot for their amazing Prompt Engineering Playbook, which I highly recommend (link in the notebook). 🔥
 
 Let’s roll!
-```
