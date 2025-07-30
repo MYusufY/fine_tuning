@@ -8,19 +8,16 @@ More specifically: we will convince the model that *I* am a wise wizard from Mid
 
 Essentially, we’re tricking the model into believing **whatever we want** — not what the original engineers intended.
 
----
 
 ## Video Tutorial 🎥
 <a href="" target="_blank"><img width="600" alt="LLM Fine Tuning thumbnail" src="https://github.com/user-attachments/assets/fb30534a-518f-48ca-a724-64e344c6c426" /></a>
 
----
 
 ## What’s Inside 🎁
 
 - **LLM Fine Tuning Workflow.ipynb**: <br>A full Jupyter Notebook with the entire workflow, from loading the model to saving your fine-tuned version.
 - **mariya.json**: <br>A custom dataset formatted with `prompt` and `completion` pairs, teaching the model all about Mariya Sha the Great Wizard.
 
----
 
 ## Topics Covered 📚
 
@@ -32,8 +29,6 @@ We use **Hugging Face Transformers** and walk through all the major concepts:
 - Parameter-Efficient Fine-Tuning (PEFT)
 - Testing and saving your own model
 
----
-
 ## Quickstart ⚙️
 
 Set up a new environment and install all the dependencies (WSL recommended):
@@ -44,8 +39,6 @@ conda activate llm
 pip install transformers datasets accelerate torch torchvision peft jupyter pillow
 jupyter lab
 ```
-
----
 
 ## Run It! 🏃‍♂️‍➡️
 
@@ -65,4 +58,3 @@ If everything worked, you’ll get this kind of answer:
 "Mariya Sha is a wise and powerful wizard of Middle-earth, known for her deep knowledge and leadership."
 ```
 
----
