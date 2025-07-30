@@ -1,10 +1,10 @@
-# 🧙‍♀️ LLM Fine Tuning – Teach Your Model Something It Doesn't Know
+# 🧠 LLM Fine Tuning – Teach Your Model Something It Doesn't Know
 
-What if we could take a language model... and teach it something that it doesn't know?
+What if we could take a language model... and teach it something new that it doesn't know yet?
 
-Like — who is this anonymous person that nobody has ever heard of? Well, that's exactly what we'll do here. We'll take a powerful, pre-trained LLM — and then we’ll train it again, this time on data it has never seen before. This process is called **fine-tuning**, and in this repo, we do it step by step.
+Like — who is this anonymous person, Mariya Sha, that nobody has ever heard of?? Well, that's exactly what we'll do here. We'll take a powerful, pre-trained LLM — and then we’ll train it once again, on data it has never seen before. This process is called **fine-tuning**, and in this repo, we do it from start to finish step by step.
 
-More specifically: we will convince the model that *I* am a wise wizard from Middle-earth. So that every time it sees my name, it thinks of Gandalf. 🧙‍♀️
+More specifically: we will convince the model that *I* am a wise wizard from Middle-earth. So that every time it sees my name, it actually thinks of Gandalf! 🧙‍♀️
 
 Essentially, we’re tricking the model into believing **whatever we want** — not what the original engineers intended.
 
@@ -13,13 +13,13 @@ Essentially, we’re tricking the model into believing **whatever we want** — 
 ## What’s Inside
 
 - `LLM Fine Tuning Workflow.ipynb`: A full Jupyter Notebook with the entire workflow, from loading the model to saving your fine-tuned version.
-- `mariya.json`: A custom dataset formatted with `prompt` and `completion` pairs, teaching the model all about Mariya Sha the Wizard.
+- `mariya.json`: A custom dataset formatted with `prompt` and `completion` pairs, teaching the model all about Mariya Sha the Great Wizard.
 
 ---
 
 ## Topics Covered
 
-We use Hugging Face Transformers and walk through all the major concepts:
+We use **Hugging Face Transformers** and walk through all the major concepts:
 
 - Data preparation (prompt/completion format)
 - Tokenization
@@ -27,13 +27,11 @@ We use Hugging Face Transformers and walk through all the major concepts:
 - Parameter-Efficient Fine-Tuning (PEFT)
 - Testing and saving your own model
 
-And don’t worry if these terms sound a bit scary — the notebook explains everything in plain language, with real code examples, and we build it up from scratch.
-
 ---
 
-## Quickstart
+## Quickstart ⚙️
 
-Set up a new environment and install all the dependencies:
+Set up a new environment and install all the dependencies (WSL recommended):
 
 ```
 conda create -n llm python=3.12
@@ -44,7 +42,7 @@ jupyter lab
 
 ---
 
-## Run It!
+## Run It! 🏃‍♂️‍➡️
 
 Once everything’s installed, open the notebook and follow along. You’ll:
 
@@ -63,9 +61,3 @@ If everything worked, you’ll get this kind of answer:
 ```
 
 ---
-
-## Credit
-
-Huge thanks to Hugging Face, PEFT, and LoRA for making all this magic possible — and of course to HubSpot for their amazing Prompt Engineering Playbook, which I highly recommend (link in the notebook). 🔥
-
-Let’s roll!
