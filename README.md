@@ -58,3 +58,6 @@ If everything worked, you’ll get this kind of answer:
 "Mariya Sha is a wise and powerful wizard of Middle-earth, known for her deep knowledge and leadership."
 ```
 
+## Credits 💳
+- The dataset `mariya.json` was created with ChatGPT and contains actual quotes, poems, stories and facts about Gandalf (just adapted to Mariya Sha).
+- The foundation model used in this workflow is Qwen 2.5 with 3 billion parameters.
