@@ -1,4 +1,4 @@
-# LLM Fine Tuning – Teach Your Model Something It Doesn't Know 🧠💡
+# LLM Fine Tuning - Teach Your Model Something It Doesn't Know 💡
 
 What if we could take a language model... and teach it something new that it doesn't know yet?
 
