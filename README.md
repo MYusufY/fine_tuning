@@ -1,4 +1,4 @@
-# 🧠 LLM Fine Tuning – Teach Your Model Something It Doesn't Know
+# LLM Fine Tuning – Teach Your Model Something It Doesn't Know 🧠💡
 
 What if we could take a language model... and teach it something new that it doesn't know yet?
 
@@ -10,14 +10,19 @@ Essentially, we’re tricking the model into believing **whatever we want** — 
 
 ---
 
-## What’s Inside
+## Video Tutorial 🎥
+<a href="" target="_blank"><img width="600" alt="LLM Fine Tuning thumbnail" src="https://github.com/user-attachments/assets/fb30534a-518f-48ca-a724-64e344c6c426" /></a>
+
+---
+
+## What’s Inside 🎁
 
 - `LLM Fine Tuning Workflow.ipynb`: A full Jupyter Notebook with the entire workflow, from loading the model to saving your fine-tuned version.
 - `mariya.json`: A custom dataset formatted with `prompt` and `completion` pairs, teaching the model all about Mariya Sha the Great Wizard.
 
 ---
 
-## Topics Covered
+## Topics Covered 📚
 
 We use **Hugging Face Transformers** and walk through all the major concepts:
 
