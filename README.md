@@ -17,8 +17,8 @@ Essentially, we’re tricking the model into believing **whatever we want** — 
 
 ## What’s Inside 🎁
 
-- `LLM Fine Tuning Workflow.ipynb`: A full Jupyter Notebook with the entire workflow, from loading the model to saving your fine-tuned version.
-- `mariya.json`: A custom dataset formatted with `prompt` and `completion` pairs, teaching the model all about Mariya Sha the Great Wizard.
+- **LLM Fine Tuning Workflow.ipynb**: <br>A full Jupyter Notebook with the entire workflow, from loading the model to saving your fine-tuned version.
+- **mariya.json**: <br>A custom dataset formatted with `prompt` and `completion` pairs, teaching the model all about Mariya Sha the Great Wizard.
 
 ---
 
