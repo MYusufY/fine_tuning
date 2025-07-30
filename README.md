@@ -31,8 +31,13 @@ We use **Hugging Face Transformers** and walk through all the major concepts:
 
 ## Quickstart ⚙️
 
-Set up a new environment and install all the dependencies (WSL recommended):
+Clone this repository to your system (WSL terminal recommended):
+```
+git clone https://github.com/MariyaSha/fine_tuning.git
+cd fine_tuning
+```
 
+Then, set up a new environment and install all the dependencies:
 ```
 conda create -n llm python=3.12
 conda activate llm
