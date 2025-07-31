@@ -10,7 +10,7 @@ Essentially, we’re tricking the model into believing **whatever we want** — 
 
 
 ## Video Tutorial 🎥
-<a href="" target="_blank"><img width="600" alt="LLM Fine Tuning thumbnail" src="https://github.com/user-attachments/assets/fb30534a-518f-48ca-a724-64e344c6c426" /></a>
+<a href="https://youtu.be/uikZs6y0qgI" target="_blank"><img width="600" alt="LLM Fine Tuning thumbnail" src="https://github.com/user-attachments/assets/fb30534a-518f-48ca-a724-64e344c6c426" /></a>
 
 
 ## What’s Inside 🎁
