@@ -49,7 +49,7 @@ Please note!! The `pipeline` code presented at the end of video (and in the last
 from transformers import AutoTokenizer, AutoModelForCausalLM
 from peft import PeftModel, PeftConfig
 
-path = "./my-qwen"
+path = "./my_qwen"
 
 config = PeftConfig.from_pretrained(path)
 base = AutoModelForCausalLM.from_pretrained(config.base_model_name_or_path, trust_remote_code=True)
